@@ -117,9 +117,11 @@ Eight-LED-Sequential-Lighting/
 └── images/
     ├── circuit.png
     └── simulation.png
+circuit diagram
+<img width="1080" height="760" alt="image" src="https://github.com/user-attachments/assets/bacd976e-c7d2-4bb4-b29b-5abf7a37f432" />
 
-Expected output
 
+output
 LED1 → LED2 → LED3 → LED4
                       ↓
 LED8 ← LED7 ← LED6 ← LED5
